@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="airportTests.AirportTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-08-21T01:00:30" hostname="ZENBOOK-5NGMJ0K" time="1.919">
+  <properties/>
+  <testcase name="sort airports by name" classname="airportTests.AirportTest" time="1.913"/>
+  <testcase name="sort list with one airportApp.Airport should return the given airportApp.Airport" classname="airportTests.AirportTest" time="1.942"/>
+  <testcase name="getAirportData handles error fetching data" classname="airportTests.AirportTest" time="0.037"/>
+  <testcase name="canary test should pass" classname="airportTests.AirportTest" time="2.494"/>
+  <testcase name="sort empty list should return an empty list" classname="airportTests.AirportTest" time="2.435"/>
+  <testcase name="create airportApp.Airport" classname="airportTests.AirportTest" time="2.441"/>
+  <testcase name="getAirportData extracts airportApp.Airport from JSON returned by fetchData" classname="airportTests.AirportTest" time="0.057"/>
+  <testcase name="sort pre-sorted list should return the given list" classname="airportTests.AirportTest" time="1.942"/>
+  <testcase name="getAirportData invokes fetchData" classname="airportTests.AirportTest" time="1.839"/>
+  <testcase name="sort airports should return airports in sorted order of name" classname="airportTests.AirportTest" time="1.926"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
